@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![meme](honest_work.png)
+<!--![meme](honest_work.png)-->
 
 <!--- 🔭 Interested in Security and information assurance ...-->
 - 🌱 I’m currently on the third year of my undergraduate degree at Computer Science Department, University of Crete
