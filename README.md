@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![meme](https://media.giphy.com/media/jmYJF3hGctoOI/giphy.gif)
+
 <!--- 🔭 Interested in Security and information assurance ...-->
 - 🌱 I’m currently on the third year of my undergraduate degree at Computer Science Department, University of Crete
 - 🏖️ Living in Heraklion, Crete
